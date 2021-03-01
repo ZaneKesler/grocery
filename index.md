@@ -1,13 +1,21 @@
 ## Welcome to GitHub Pages
 
 [Create Account](Create_Account.html)
+
 [Select Store](Select_Store.html)
+
 [Search](Search.html)
+
 [Checkout](Checkout.html)
+
 [Verify Age](Verify_Age.html)
+
 [Pay](Pay.html)
+
 [Complete Order](Complete_Order.html)
+
 [Rate Service](Rate_Service.html)
+
 [Comment](Comments.html)
 
 You can use the [editor on GitHub](https://github.com/ZaneKesler/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
