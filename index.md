@@ -2,6 +2,8 @@
 
 [Create Account](Create_Account.html)
 
+[Login](Login.html)
+
 [Select Store](Select_Store.html)
 
 [Search](Search.html)
@@ -17,6 +19,9 @@
 [Rate Service](Rate_Service.html)
 
 [Comment](Comments.html)
+
+[Logout](Logout.html)
+
 
 
 You can use the [editor on GitHub](https://github.com/ZaneKesler/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
